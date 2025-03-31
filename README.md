@@ -1,7 +1,35 @@
 # proulextools
-Google AppScripts Editor Add-on for Proulex
+This Google AppScripts Editor Add-on is for Proulex Teachers (www.proulex.com). Teachers can use this Add-on to share individual test results documents with virtual students. 
 
 ![Proulex Tools Logo](assets/ProulexTools250px.png)
+
+In Proulex, we give virtual students Speax Progress Tests through Google Forms. Once students finish the tests and the teacher grades them, it's nice to review the results with students in class. 
+
+Using the Proulex Tools Add-on for Google Sheets, you can generate individual student PDF files to share with your virtual students. With one click, the Add-on creates a new Sheet with individual URL's for each student. Then you send the URL's to each individual via WhatsApp. 
+
+# Installation
+
+TODO
+
+# Usage
+
+* Open the Google Form > Click "Responses" > Click "View in Sheets"
+
+![Google From Screenshot](assets/ProulexToolsScreenshot-GoogleForm.png)
+
+A new Google Sheet will open with all the student results. 
+
+![Google Sheets Form Responses](assets/ProulexToolsScreenshot-ProgressTestSheet.png)
+
+* In your results Sheet > Click "Extensions" > "Proulex Tools" > "Create Test Result Handouts"
+
+![Google Sheets Extensions Menu Screenshot](assets/ProulexToolsScreenShot-Extensions-Menu.png)
+
+* In your results Sheet > Click the Sheet (Tab) named "Student Files"
+
+![Google Sheets Extensions Menu Screenshot](assets/ProulexToolsScreenShot.png)
+
+The sheet shows one URL for each student. The URL is a PDF document that only contains that students results. 
 
 # Privacy Policy
 
