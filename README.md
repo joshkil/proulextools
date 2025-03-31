@@ -1,7 +1,7 @@
 # proulextools
 Google AppScripts Editor Add-on for Proulex
 
-![Proulex Tools Logo](ProulexTools.png)
+![Proulex Tools Logo](assets/ProulexTools.png)
 
 # Privacy Policy
 
