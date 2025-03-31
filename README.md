@@ -1,5 +1,5 @@
 # proulextools
-Google AppScripts Editor AddOn for Proulex
+Google AppScripts Editor Add-on for Proulex
 
 ![Proulex Tools Logo](ProulexTools.png)
 
