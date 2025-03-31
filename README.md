@@ -1,17 +1,21 @@
 # proulextools
-This Google AppScripts Editor Add-on is for Proulex Teachers (www.proulex.com). Teachers can use this Add-on to share individual test results documents with virtual students. 
+This Google Sheets Add-on is for Proulex Teachers (www.proulex.com). Teachers can use it to share individual test results with virtual students. 
 
 ![Proulex Tools Logo](assets/ProulexTools250px.png)
 
-In Proulex, we give virtual students Speax Progress Tests through Google Forms. Once students finish the tests and the teacher grades them, it's nice to review the results with students in class. 
+In Proulex, we give virtual students Speax Progress Tests through Google Forms. Once students finish the tests and the teacher grades them, it's nice to review the results with students in class, but _what's the easiest method to share them with virtual students?_
 
-Using the Proulex Tools Add-on for Google Sheets, you can generate individual student PDF files to share with your virtual students. With one click, the Add-on creates a new Sheet with individual URL's for each student. Then you send the URL's to each individual via WhatsApp. 
+Using the Proulex Tools Add-on for Google Sheets, you can generate individual student PDF files to share with your virtual students. With one click, the Add-on creates URL's (links) for each student. Then you send the URL's to each individual via WhatsApp. 
+
+![Proulex Tools Summary Screenshot](assets/ProulexToolsScreenShot.png)
 
 # Installation
 
 TODO
 
 # Usage
+
+Once you've completed a Speax Progress Test using a Google Form and graded the student tests in Google Forms, follow these steps. 
 
 * Open the Google Form > Click "Responses" > Click "View in Sheets"
 
@@ -27,9 +31,15 @@ A new Google Sheet will open with all the student results.
 
 * In your results Sheet > Click the Sheet (Tab) named "Student Files"
 
-![Google Sheets Extensions Menu Screenshot](assets/ProulexToolsScreenShot.png)
+![Google Sheets Student Files Tab](assets/ProulexToolsScreenShot.png)
 
 The sheet shows one URL for each student. The URL is a PDF document that only contains that students results. 
+
+# Report a Bug
+
+If you found a bug in the Add-on, you can report it to the developer using this link. 
+
+https://github.com/joshkil/proulextools/issues/new
 
 # Privacy Policy
 
