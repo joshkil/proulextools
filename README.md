@@ -5,18 +5,39 @@ Google AppScripts Editor AddOn for Proulex
 
 # Privacy Policy
 
-This script was developed to help Teachers at Proulex. No gaurantee is offered for the script. 
+Effective Date: March 30, 2025
 
-The script needs permissions to access your Google Sheet, the Google Sheets API, and the Google Drive API. The script will add a new Sheet to any Spreadsheet where you run it. It will also create a new Google Drive folder and store new PDF files into the folder. 
+**1. Introduction**
 
-The script does not collect any of your data. 
+This Privacy Policy describes how Proulex Tools Add-on handles user data within the Google Workspace environment. We are committed to protecting your privacy and ensuring transparency in our data practices.
+
+**2. Data Collection and Usage**
+
+No Personal Data Collection: Proulex Tools does not collect any personally identifiable information (PII) from users. We do not track or store any user data outside of the Google Workspace environment.
+Google Sheet Data Access: The Add-on requires access to your Google Sheet to read the data necessary for its functionality. This data is used solely to generate a new file with formatted data and store it into a new file on your Google Drive.
+Google Drive File Creation: The Add-on creates a new file within your Google Drive to store the processed data. This data is stored within your own Google Drive and remains under your control.
+In-Memory Processing: Any data accessed from your Google Sheet is processed in-memory during the execution of the Add-on. No data is persistently stored on our servers or external databases.
+
+**3. Data Security**
+
+Google Workspace Environment: Proulex Tools operates entirely within the Google Workspace environment. Therefore, data security is primarily handled by Google's robust security infrastructure.
+Limited Access: The Add-on requests only the minimum necessary permissions to perform its intended functions.
+No External Data Transfer: We do not transfer or transmit your data to any third-party servers or services.
+
+**4. Google API Services User Data Policy**
+
+Your use of Proulex Tools is also subject to the Google API Services User Data Policy, including the Limited Use requirements. 
+https://developers.google.com/terms/api-services-user-data-policy 
+
+**5. Changes to This Privacy Policy**
+
+We may update this Privacy Policy from time to time. Any changes will be posted within the Add-on description or on a designated webpage. We encourage you to review this policy periodically. 
+
+**6. Contact Information**
+
+If you have any questions or concerns about this Privacy Policy, please contact us at kilpatrick.joshua@gmail.com.
 
 # Terms of Service
-
-You can install an use this script as you like to help you do your job. There are no limits on your use of the script. 
-
-
-## Terms of Service for Proulex Tools
 
 **1. Acceptance of Terms**
 
@@ -29,13 +50,17 @@ Proulex Tools is a Google Apps Script add-on that processes a Google Sheet which
 **3. User Responsibilities**
 
 **Account Responsibility:** You are responsible for maintaining the confidentiality of your Google account credentials and for all activities that occur under your account.
+
 **Compliance:** You agree to use the Add-on in compliance with all applicable laws, regulations, and Google's Terms of Service.
-*Data Accuracy:** You are responsible for the accuracy and legality of the data you input or process using the Add-on.
-*Prohibited Use:** You agree not to use the Add-on for any illegal, harmful, or unethical purpose, including but not limited to:
-    * Distributing malware or other harmful software.
-    * Spamming or sending unsolicited messages.
-    * Violating the privacy rights of others.
-    * Attempting to reverse engineer the Add-on.
+
+**Data Accuracy:** You are responsible for the accuracy and legality of the data you input or process using the Add-on.
+
+**Prohibited Use:** You agree not to use the Add-on for any illegal, harmful, or unethical purpose, including but not limited to:
+
+* Distributing malware or other harmful software.
+* Spamming or sending unsolicited messages.
+* Violating the privacy rights of others.
+* Attempting to reverse engineer the Add-on.
 
 **4. Data Privacy and Security**
 
@@ -45,7 +70,7 @@ Proulex Tools is a Google Apps Script add-on that processes a Google Sheet which
 
 **Data Security:** Because the Add-on runs entirely within the Google Apps environment, data security is handled by Google's security infrastructure.
 
-*Google API Services User Data Policy:** Your use of the Add-on is also subject to the Google API Services User Data Policy, including the Limited Use requirements. https://developers.google.com/terms/api-services-user-data-policy
+**Google API Services User Data Policy:** Your use of the Add-on is also subject to the Google API Services User Data Policy, including the Limited Use requirements. https://developers.google.com/terms/api-services-user-data-policy
 
 **5. Intellectual Property**
 
@@ -78,4 +103,3 @@ Proulex Tools is a Google Apps Script add-on that processes a Google Sheet which
 
 * If you have any questions or concerns about these Terms, please contact us at kilpatrick.joshua@gmail.com.
 
-**Example of a data collection and usage section:**
